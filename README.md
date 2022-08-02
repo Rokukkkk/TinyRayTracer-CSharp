@@ -1,7 +1,7 @@
 # TinyRayTracer-CSharp
 
 > Original repository:
-> [ssloy/tinyrenderer : A brief computer graphics / rendering course](https://github.com/ssloy/tinyraytracer)
+> [ssloy/tinyraytracer : A brief computer graphics / rendering course](https://github.com/ssloy/tinyraytracer)
 
 
 
