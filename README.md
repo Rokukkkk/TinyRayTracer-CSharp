@@ -6,5 +6,5 @@
 
 
 ## Screenshot:
-<div align=center><img src="./_img/Cam.png" width=60% height=80% ></div>
+<div align=center><img src="./_img/Cam.png" width=75% height=75% ></div>
 
